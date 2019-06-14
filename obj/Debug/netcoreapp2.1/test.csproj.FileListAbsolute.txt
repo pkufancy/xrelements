@@ -1,0 +1,11 @@
+/Users/liuxiao/Projects/test/test/obj/Debug/netcoreapp2.1/test.csprojAssemblyReference.cache
+/Users/liuxiao/Projects/test/test/obj/Debug/netcoreapp2.1/test.csproj.CoreCompileInputs.cache
+/Users/liuxiao/Projects/test/test/obj/Debug/netcoreapp2.1/test.AssemblyInfoInputs.cache
+/Users/liuxiao/Projects/test/test/obj/Debug/netcoreapp2.1/test.AssemblyInfo.cs
+/Users/liuxiao/Projects/test/test/bin/Debug/netcoreapp2.1/test.deps.json
+/Users/liuxiao/Projects/test/test/bin/Debug/netcoreapp2.1/test.runtimeconfig.json
+/Users/liuxiao/Projects/test/test/bin/Debug/netcoreapp2.1/test.runtimeconfig.dev.json
+/Users/liuxiao/Projects/test/test/bin/Debug/netcoreapp2.1/test.dll
+/Users/liuxiao/Projects/test/test/bin/Debug/netcoreapp2.1/test.pdb
+/Users/liuxiao/Projects/test/test/obj/Debug/netcoreapp2.1/test.dll
+/Users/liuxiao/Projects/test/test/obj/Debug/netcoreapp2.1/test.pdb
